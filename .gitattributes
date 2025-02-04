@@ -1,0 +1,5 @@
+MMR.ipynb filter=lfs diff=lfs merge=lfs -text
+Sports_and_Outdoors_5.zip filter=lfs diff=lfs merge=lfs -text
+meta_Sports_and_Outdoors.zip filter=lfs diff=lfs merge=lfs -text
+Data filter=lfs diff=lfs merge=lfs -text
+8 filter=lfs diff=lfs merge=lfs -text
